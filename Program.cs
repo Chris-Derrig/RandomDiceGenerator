@@ -17,7 +17,7 @@ namespace RandomDiceGenerator
             bool again = true;
             while (again)
             {
-                Console.WriteLine("\nPlease enter the number of sides to 1 of your die :");
+                Console.WriteLine("\nPlease enter the number of sides to 1 of your die, then hit enter to roll 2 dice :");
                 bool error = true;
                 while (error)
                 {
@@ -28,8 +28,9 @@ namespace RandomDiceGenerator
                         
                         int die1 = RollDice(1, sides);
                         int die2 = RollDice(1, sides);
-                        Console.WriteLine(die2);
-                        Console.WriteLine(die1);
+                        Console.WriteLine("\nYou rolled:");
+                        Console.WriteLine("First Die " +"  " + die2);
+                        Console.WriteLine("Second Die" +"  " + die1);
 
                         if (die1 == 1 && die2 == 1)
                         {
@@ -74,14 +75,13 @@ namespace RandomDiceGenerator
                             }
                         }
                         again = true;
+                        
                         if (doAgain == "y" || doAgain == "Y")
                         {
                             
                         }
-
                         again = true;
                     }
-                  
                     catch (FormatException)
                     {
                         Console.WriteLine("\nI'm sorry. Only numberic digits can be accepted.");
