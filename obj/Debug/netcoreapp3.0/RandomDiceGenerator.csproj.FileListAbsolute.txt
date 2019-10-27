@@ -1,0 +1,11 @@
+C:\Users\Rhonswood\source\repos\RandomDiceGenerator\obj\Debug\netcoreapp3.0\RandomDiceGenerator.csprojAssemblyReference.cache
+C:\Users\Rhonswood\source\repos\RandomDiceGenerator\obj\Debug\netcoreapp3.0\RandomDiceGenerator.AssemblyInfoInputs.cache
+C:\Users\Rhonswood\source\repos\RandomDiceGenerator\obj\Debug\netcoreapp3.0\RandomDiceGenerator.AssemblyInfo.cs
+C:\Users\Rhonswood\source\repos\RandomDiceGenerator\bin\Debug\netcoreapp3.0\RandomDiceGenerator.exe
+C:\Users\Rhonswood\source\repos\RandomDiceGenerator\bin\Debug\netcoreapp3.0\RandomDiceGenerator.deps.json
+C:\Users\Rhonswood\source\repos\RandomDiceGenerator\bin\Debug\netcoreapp3.0\RandomDiceGenerator.runtimeconfig.json
+C:\Users\Rhonswood\source\repos\RandomDiceGenerator\bin\Debug\netcoreapp3.0\RandomDiceGenerator.runtimeconfig.dev.json
+C:\Users\Rhonswood\source\repos\RandomDiceGenerator\bin\Debug\netcoreapp3.0\RandomDiceGenerator.dll
+C:\Users\Rhonswood\source\repos\RandomDiceGenerator\bin\Debug\netcoreapp3.0\RandomDiceGenerator.pdb
+C:\Users\Rhonswood\source\repos\RandomDiceGenerator\obj\Debug\netcoreapp3.0\RandomDiceGenerator.dll
+C:\Users\Rhonswood\source\repos\RandomDiceGenerator\obj\Debug\netcoreapp3.0\RandomDiceGenerator.pdb
